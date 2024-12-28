@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">to Morse Code</string>
+    <string name="Note">Note:don\'t type any character other than \n Latin letters and numbers.</string>
+</resources>
